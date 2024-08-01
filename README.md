@@ -1,5 +1,3 @@
 # get-info-win10
 
-Fiz esse código para identificar algumas informações da máquina do usuário quando realizava acesso remoto.
-
-Código de 2017.
+This code was developed in 2017 to identify specific information about the user's machine during remote access.
